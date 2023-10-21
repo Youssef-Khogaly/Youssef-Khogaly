@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/youssefkhogaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssefkhogaly" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/youssef ibrahem khalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="youssef ibrahem khalil" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yossefibrahem8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yossefibrahem8" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yossef9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yossef9" height="30" width="40" /></a>
 </p>
 
@@ -20,5 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef-khogaly&show_icons=true&locale=en&layout=compact" alt="youssef-khogaly" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-khogaly&show_icons=true&locale=en" alt="youssef-khogaly" /></p>
-
 

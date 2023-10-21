@@ -5,7 +5,11 @@
 
 - 🔭 I'm currently Student at **faculty of communication and electronics engineering**
 
+- 🌱 I’m currently learning **Arm architecture**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Youssef-Khogaly?tab=repositories](https://github.com/Youssef-Khogaly?tab=repositories)
+
+- 📫 How to reach me **yossefibrahem8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-khogaly&show_icons=true&locale=en" alt="youssef-khogaly" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-khogaly&" alt="youssef-khogaly" /></p>

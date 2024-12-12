@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate Embedded Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-khogaly&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-khogaly" /> </p>
--  -> Resume: https://drive.google.com/file/d/1YMFKmrDXzCYRHpAoev5TFCdtL6pqkSlm/view?usp=drive_link
+- -> Resume: https://drive.google.com/file/d/1YMFKmrDXzCYRHpAoev5TFCdtL6pqkSlm/view?usp=drive_link
 
 - 🔭 I'm currently Student at **faculty of communication and electronics engineering**
 

@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate Embedded Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-khogaly&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-khogaly" /> </p>
-
+- -> Resume: https://drive.google.com/file/d/1YMFKmrDXzCYRHpAoev5TFCdtL6pqkSlm/view?usp=drive_link
 - 🔭 I'm currently Student at **faculty of communication and electronics engineering**
 
 - 🌱 I’m currently learning **Arm architecture**
@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Youssef-Khogaly?tab=repositories](https://github.com/Youssef-Khogaly?tab=repositories)
 
 - 📫 How to reach me **yossefibrahem8@gmail.com**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/youssefkhogaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssefkhogaly" height="30" width="40" /></a>

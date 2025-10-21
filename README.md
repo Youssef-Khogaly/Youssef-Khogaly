@@ -1,26 +1,21 @@
 <h1 align="center">Hi 👋, I'm Youssef Ibrahem</h1>
 <h3 align="center">Backend Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-khogaly&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-khogaly" /> </p>
+#
+<br><br> Resume: https://drive.google.com/file/d/1YMFKmrDXzCYRHpAoev5TFCdtL6pqkSlm/view?usp=drive_link
 
-- -> Resume: [https://drive.google.com/file/d/1YMFKmrDXzCYRHpAoev5TFCdtL6pqkSlm/view?usp=drive_link](https://drive.google.com/drive/folders/1MFudyqHM0xtdPP5xq-kZwCShHVW5EMIE?usp=drive_link)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Youssef-Khogaly?tab=repositories](https://github.com/Youssef-Khogaly?tab=repositories)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssefkhogaly) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yossefibrahem8@gmail.com) 
 
-- 📫 How to reach me **yossefibrahem8@gmail.com**
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/youssefkhogaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssefkhogaly" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yossefibrahem8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yossefibrahem8" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yossef9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yossef9" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Youssef-Khogaly&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Youssef-Khogaly&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Khogaly&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=Youssef-Khogaly&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef-khogaly&show_icons=true&locale=en&layout=compact" alt="youssef-khogaly" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-khogaly&show_icons=true&locale=en" alt="youssef-khogaly" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-khogaly&" alt="youssef-khogaly" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
